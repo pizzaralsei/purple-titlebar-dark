@@ -1,0 +1,47 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "Purple Titlebar Dark",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-001-9c6d74e14860e77ee6f8f43e824bff25.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(53, 53, 53)",
+      "toolbar_text": "rgb(232, 232, 232)",
+      "frame": "rgb(120, 66, 173)",
+      "tab_background_text": "rgb(233, 233, 233)",
+      "toolbar_field": "rgb(53, 53, 53)",
+      "toolbar_field_text": "rgb(232, 232, 232)",
+      "tab_line": "rgba(97, 67, 125, 0)",
+      "popup": "rgb(53, 53, 53)",
+      "popup_text": "rgb(234, 234, 234)",
+      "icons_attention": "rgb(145, 80, 208)",
+      "ntp_background": "rgb(53, 53, 53)",
+      "ntp_text": "rgb(232, 232, 232)",
+      "popup_border": "rgba(34, 25, 77, 0)",
+      "popup_highlight_text": "rgba(255, 255, 255, 0.63)",
+      "popup_highlight": "rgba(120, 66, 173, 0.63)",
+      "sidebar_border": "rgba(255, 255, 255, 0)",
+      "sidebar_highlight_text": "rgba(255, 255, 255, 0.84)",
+      "sidebar_highlight": "rgba(120, 66, 173, 0.63)",
+      "sidebar_text": "rgba(255, 255, 255, 0.84)",
+      "sidebar": "rgb(53, 53, 53)",
+      "tab_loading": "rgb(120, 66, 173)",
+      "toolbar_bottom_separator": "rgb(53, 53, 53)",
+      "toolbar_field_border_focus": "rgba(229, 36, 36, 0)",
+      "toolbar_field_border": "rgba(51, 35, 66, 0)",
+      "toolbar_top_separator": "rgb(120, 66, 173)"
+    }
+  }
+}
