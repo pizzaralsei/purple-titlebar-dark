@@ -1,4 +1,4 @@
-Purple Dark Titlebar
+Purple Titlebar Dark
 
 a Firefox Browser customization that provides a dark theme with a purple detailed titlebar.
 
