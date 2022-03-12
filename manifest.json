@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "version": "1.5",
-  "name": "Purple Dark Titlebar",
+  "name": "Purple Titlebar Dark",
   "theme": {
     "images": {
       "additional_backgrounds": [
